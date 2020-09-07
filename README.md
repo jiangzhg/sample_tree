@@ -1,2 +1,8 @@
-# sample_tree
-Study Binary tree
+# 计算器
+
+二叉树中序遍历构建的一个支持整数的四则运算
+
+# 使用方法(Usage)
+make
+
+./calc 1+3*8-9/3
